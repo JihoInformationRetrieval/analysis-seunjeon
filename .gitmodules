@@ -1,0 +1,3 @@
+[submodule "seunjeon"]
+	path = seunjeon
+	url = https://bitbucket.org/eunjeon/seunjeon.git
